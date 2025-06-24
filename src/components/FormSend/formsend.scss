@@ -13,7 +13,7 @@ button {
     color: white;
     box-sizing: border-box;
     border: 2px white solid;
-;
+    ;
 }
 
 
@@ -35,3 +35,8 @@ button:active {
         border: 2px gray solid;
     }
 }
+
+select {
+    margin: 10px;
+}
+
